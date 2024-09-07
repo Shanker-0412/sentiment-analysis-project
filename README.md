@@ -1,4 +1,5 @@
 # sentiment-analysis-project
+OPEN THIS FILE IN CODE MODE FOR NO CONFUSIONS
 to run this model make sure you got your python virtual environment set up is done
 to do that;
 Navigate to where you want to create the project and create the directory:
